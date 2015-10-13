@@ -21,6 +21,12 @@
   * process this data. 
   */
 
+  /*
+   * TODO: 
+   * 
+   * * add tutorial credit link!!! 
+   */
+
 #define SLAVE_ADDRESS 0x04
 int number = 0;
 int state = 0;
